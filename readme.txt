@@ -3,7 +3,7 @@
 Contributors: sandesh055
 Tags: page navigation, developer, beaver builder, beaver builder live preview, edit any page, edit page in beaver builder
 Requires at least: 4.0.0
-Tested up to: 4.5.2
+Tested up to: 4.6.1
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -39,6 +39,9 @@ Yes. Plugin will automatically add menu if BB is installed.
 2. Beaver Builder Live Preview
 
 == Changelog ==
+
+= 1.0.1 =
+* Live Preview Enhancement
 
 = 1.0 =
 * Initial Release.

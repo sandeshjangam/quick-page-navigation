@@ -11,6 +11,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
+require_once 'classes/class-sj-qpn-loader.php';
+
+
 if( !class_exists( "sqpn_Quick_Page_Navigation" ) ) {
 	class sqpn_Quick_Page_Navigation {
 
